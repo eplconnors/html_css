@@ -1,0 +1,22 @@
+.jumbotron{
+  background: #ffffff url("https://images.unsplash.com/12/palm-trees.JPG?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=d245a6647621f41637c8e3f718099ba4")center;
+  padding-bottom: 30px;
+}
+
+footer{
+  padding:60px;
+  float:left;
+}
+
+#weekday{
+  font-style: bold;
+  text-align: center;
+}
+
+#recipe{
+  text-align: center;
+}
+
+img {
+  align-items:baseline;
+}
